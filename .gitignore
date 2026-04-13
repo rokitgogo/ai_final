@@ -1,0 +1,10 @@
+# Streamlit secrets (API keys)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local DB (optional)
+*.sqlite3
